@@ -896,7 +896,7 @@ Bu karakterler başka bir karakter ile kolayca karıştırılabilir.
 ```html
 <html>
     <head>
-              ...
+      ...
 </head>
 <body>
     <p>
